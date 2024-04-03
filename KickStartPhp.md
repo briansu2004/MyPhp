@@ -11,10 +11,8 @@
    - Run the following command to create a new Laravel project:
 
      ```dos
-     composer create-project --prefer-dist laravel/laravel project-name
+     composer create-project --prefer-dist laravel/laravel our-awesome-project
      ```
-
-   - Replace `project-name` with our desired project name.
 
 3. **Database Configuration:**
    - Configure our MySQL database credentials in the `.env` file located in the root directory of our Laravel project.
