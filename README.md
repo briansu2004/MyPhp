@@ -43,8 +43,10 @@ Created a web app with Php and MySQL
 
 ## Upgrade PHP from 7 to 8
 
-[Upgrade PHP from 7 to 8](UpgradePhpFrom7To8.md)
-
-[PHP Versions](PhpVersions.md)
+- [Upgrade PHP from 7 to 8](UpgradePhpFrom7To8.md)
+- [PHP Versions](PhpVersions.md)
 
 ## PHP How To
+
+- [PHP REST API JSON](PhpRestJson.md)
+- [PHP CSV Read and Write](PhpCSV.md)
